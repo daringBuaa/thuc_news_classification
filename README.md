@@ -1,8 +1,8 @@
 # thuc_news_classification
 利用朴素贝叶斯的原理对thuc_news分类
 由于样本量过大，只选取了每类2000条数据进行分类，运行结果如下
-# 模型score ： 0.846285714286
-  #      precision    recall  f1-score   support
+## 模型score ： 0.846285714286
+  ##      precision    recall  f1-score   support
 
          体育       0.91      0.93      0.92       738
          娱乐       0.84      0.76      0.80       744
